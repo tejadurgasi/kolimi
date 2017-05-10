@@ -1,0 +1,25 @@
+[  
+  {
+    "id" : "tenant-1"  ,
+    "schema": [  
+      "schema-a",
+      "schema-b"
+    ]
+  },
+  {
+    "id" : "tenant-2"  ,
+    "schema": [  
+      "schema-a",
+      "schema-b",
+      "schema-c"
+    ]
+  },
+  {
+    "id" : "tenant-3"  ,
+    "schema": [  
+      "schema-3a",
+      "schema-3b",
+      "schema-3c"
+    ]
+  }
+]

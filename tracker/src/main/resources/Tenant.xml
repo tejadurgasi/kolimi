@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tenant-schema>
+
+<tenant id="tenant-1">
+	<schema>schema-a</schema>
+	<schema>schema-b</schema>
+	<schema>schema-c</schema>
+</tenant>
+
+<tenant id="tenant-2">
+	<schema>schema-a</schema>
+	<schema>schema-b</schema>
+</tenant>
+
+</tenant-schema>
